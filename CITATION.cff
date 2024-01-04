@@ -1,1 +1,11 @@
-
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Himel"
+  given-names: "Galib Muhammad Shahriar"
+  orcid: "https://orcid.org/0000-0002-2257-6751"
+title: "Tissue Artifact Segmentation and Severity Analysis for Automated Diagnosis Using Whole Slide Images"
+version: 1.0.0
+DOI: 10.5281/zenodo.10449627
+date-released: 2024-01-02
+url: "https://github.com/Galib-Muhammad-Shahriar/Tissue-Artifact-Segmentation-and-Severity-Assessment"
